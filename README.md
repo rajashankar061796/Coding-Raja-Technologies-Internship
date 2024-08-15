@@ -8,13 +8,16 @@ Account Management:
 
 Create and manage various types of accounts (savings, checking, etc.).
 View account balances.
+
 Funds Transfer:
 
 Transfer funds between accounts within the system.
+
 Loan Management:
 
 Apply for loans.
 View and manage loan balances, including calculating monthly payments.
+
 Security Measures:
 
 User authentication via username and password.
